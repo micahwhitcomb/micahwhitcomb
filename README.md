@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @micahwhitcomb
-- 👀 I’m interested in potentially switching careers to become a programmer.
-- 🌱 I’m currently learning the basics of JavaScript.
+- 👀 I’m interested in switching careers to become a software developer.
+- 🌱 I’m currently learning the basics of Web Development.
 - 💞️ I’m looking to collaborate on ...nothing just yet.
 - 📫 How to reach me: whitcomb61915@gmail.com
 
